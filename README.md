@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="center"> 🍅 My Github Stats 🍅 </h3>
 <div align="center">
 
-[![kimtomato's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
+[![kimtomato's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtomato&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=merko)]
 </div>
 
 
