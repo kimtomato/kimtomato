@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=FCFBF7&height=100&section=header&text=KIMTOMATO%20&fontSize=30&animation=fadeIn&fontColor=145426)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=FCFBF7&height=100&section=header&text=KIMTOMATO%20&fontSize=30&animation=fadeIn&fontColor=E02B2B)
 ### Hi there 👋
 
 <!--
