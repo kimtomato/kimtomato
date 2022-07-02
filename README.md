@@ -1,7 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=FCFBF7&height=100&section=header&text=KIMTOMATO's_Github%20&fontSize=20&animation=fadeIn&fontColor=E02B2B)
-
-
-
 
 <!--
 **kimtomato/kimtomato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
