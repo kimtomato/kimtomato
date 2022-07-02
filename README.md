@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋  My name is Eun-ji kim.
+
 
 <div align="center">
+
+### Hi 👋  My name is Eun-ji kim.
   
 I'm interested in artificial intelligence models in various fields.
 
