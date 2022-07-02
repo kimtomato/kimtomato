@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-Hi my name is Eun-ji kim 
+Hi my name is Eun-ji kim. I'm interested in artificial intelligence models in various fields.(especially, Federated learning, Lightweight Deep learning and Robotics.)
+
+- How to reach me : dmswl4940@naver.com
 
 </div>
 
