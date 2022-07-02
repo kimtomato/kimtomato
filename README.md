@@ -24,7 +24,7 @@ I'm interested in artificial intelligence models in various fields.
 
 (especially, Federated learning, Lightweight Deep learning and Robotics.)
 
-- How to reach me : dmswl4940@naver.com
+How to reach me : dmswl4940@naver.com
 
 </div>
 
